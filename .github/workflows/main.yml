@@ -1,4 +1,4 @@
-name: CI
+name: INDEX
 on: push
 
 jobs:
